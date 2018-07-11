@@ -7,3 +7,12 @@ nimcache/
 
 # End of https://www.gitignore.io/api/nim
 
+breakstatement
+casestatement
+casestatement2
+forstatement
+greetings
+ifstatement
+scopesandtheblockstatement
+tutorial
+whilestatement
